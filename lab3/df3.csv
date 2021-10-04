@@ -1,0 +1,257 @@
+,sex,sick_coronavirus,vaccine,type_of_vaccine,citizenship
+0,Male,No,Dont have,Covaxin,Portugal
+1,Male,Yes,Dont have,AstraZeneca,Portugal
+2,Male,Yes,Have,Moderna,Ukrainian
+3,Female,Yes,Dont have,Moderna,Ukrainian
+4,Female,Yes,Have,Moderna,Poland
+5,Female,No,Dont have,Covaxin,Ukrainian
+6,Female,Yes,Have,Moderna,Portugal
+7,Male,Yes,Have,AstraZeneca,Ukrainian
+8,Female,No,Dont have,Moderna,Germany
+9,Male,Yes,Have,AstraZeneca,Ukrainian
+10,Female,Yes,Have,Covaxin,Portugal
+11,Male,No,Have,Moderna,Germany
+12,Female,Yes,Dont have,Moderna,Ukrainian
+13,Female,Yes,Have,AstraZeneca,Germany
+14,Male,No,Have,Covaxin,Ukrainian
+15,Female,No,Dont have,Pfizer,Germany
+16,Male,Yes,Have,AstraZeneca,Germany
+17,Male,No,Dont have,AstraZeneca,Germany
+18,Male,No,Dont have,AstraZeneca,Ukrainian
+19,Male,No,Dont have,AstraZeneca,Poland
+20,Female,Yes,Have,Covaxin,Ukrainian
+21,Female,Yes,Dont have,Covaxin,Portugal
+22,Male,Yes,Dont have,AstraZeneca,Ukrainian
+23,Male,No,Dont have,Pfizer,Portugal
+24,Male,No,Have,Covaxin,Poland
+25,Female,No,Dont have,AstraZeneca,Germany
+26,Male,No,Have,Moderna,Ukrainian
+27,Male,No,Have,Pfizer,Portugal
+28,Male,Yes,Dont have,Covaxin,Portugal
+29,Female,No,Have,Moderna,Germany
+30,Male,Yes,Dont have,AstraZeneca,Germany
+31,Female,No,Have,AstraZeneca,Germany
+32,Male,No,Dont have,AstraZeneca,Poland
+33,Female,No,Dont have,Moderna,Portugal
+34,Female,No,Have,Covaxin,Germany
+35,Female,Yes,Dont have,AstraZeneca,Ukrainian
+36,Female,Yes,Have,Moderna,Ukrainian
+37,Female,Yes,Dont have,Moderna,Germany
+38,Female,No,Dont have,Pfizer,Poland
+39,Male,Yes,Dont have,Covaxin,Germany
+40,Female,Yes,Have,Moderna,Ukrainian
+41,Male,No,Have,AstraZeneca,Germany
+42,Female,No,Have,Pfizer,Germany
+43,Male,No,Have,Pfizer,Ukrainian
+44,Male,Yes,Have,Moderna,Germany
+45,Female,Yes,Have,Covaxin,Germany
+46,Male,No,Have,Moderna,Poland
+47,Male,Yes,Dont have,Pfizer,Ukrainian
+48,Male,Yes,Have,Moderna,Portugal
+49,Female,Yes,Have,AstraZeneca,Portugal
+50,Male,Yes,Dont have,Pfizer,Poland
+51,Female,No,Have,Moderna,Poland
+52,Male,Yes,Have,Moderna,Poland
+53,Female,Yes,Have,AstraZeneca,Poland
+54,Female,No,Dont have,Covaxin,Poland
+55,Female,Yes,Dont have,Covaxin,Poland
+56,Male,Yes,Dont have,Pfizer,Poland
+57,Female,No,Have,Covaxin,Portugal
+58,Female,Yes,Have,AstraZeneca,Poland
+59,Male,No,Have,Covaxin,Portugal
+60,Female,No,Have,Moderna,Portugal
+61,Female,Yes,Have,Pfizer,Poland
+62,Male,Yes,Dont have,Pfizer,Germany
+63,Female,No,Have,Moderna,Ukrainian
+64,Male,No,Have,AstraZeneca,Ukrainian
+65,Male,Yes,Dont have,Moderna,Germany
+66,Male,Yes,Have,AstraZeneca,Germany
+67,Female,No,Dont have,Moderna,Germany
+68,Female,Yes,Dont have,Covaxin,Poland
+69,Female,No,Have,Moderna,Poland
+70,Male,No,Have,AstraZeneca,Portugal
+71,Female,No,Dont have,Covaxin,Poland
+72,Female,Yes,Have,Covaxin,Ukrainian
+73,Female,Yes,Dont have,Moderna,Germany
+74,Male,Yes,Dont have,Moderna,Poland
+75,Male,Yes,Dont have,AstraZeneca,Ukrainian
+76,Female,Yes,Dont have,AstraZeneca,Portugal
+77,Female,No,Have,Pfizer,Portugal
+78,Female,No,Dont have,Pfizer,Portugal
+79,Female,No,Have,Covaxin,Ukrainian
+80,Male,Yes,Dont have,Moderna,Germany
+81,Female,Yes,Dont have,Pfizer,Portugal
+82,Female,No,Have,Pfizer,Ukrainian
+83,Male,No,Have,AstraZeneca,Ukrainian
+84,Male,No,Have,Covaxin,Ukrainian
+85,Female,No,Have,Pfizer,Ukrainian
+86,Male,No,Dont have,Pfizer,Poland
+87,Male,Yes,Dont have,Covaxin,Portugal
+88,Female,Yes,Dont have,AstraZeneca,Poland
+89,Male,No,Have,Moderna,Poland
+90,Female,No,Dont have,Moderna,Ukrainian
+91,Male,Yes,Have,Moderna,Ukrainian
+92,Female,No,Dont have,Moderna,Poland
+93,Male,Yes,Have,Moderna,Germany
+94,Male,Yes,Have,Covaxin,Poland
+95,Female,Yes,Dont have,Covaxin,Ukrainian
+96,Male,Yes,Have,Pfizer,Portugal
+97,Male,No,Dont have,AstraZeneca,Portugal
+98,Female,Yes,Have,Pfizer,Ukrainian
+99,Male,No,Dont have,Moderna,Portugal
+100,Female,No,Have,Pfizer,Ukrainian
+101,Female,No,Dont have,Pfizer,Poland
+102,Female,No,Have,Covaxin,Portugal
+103,Male,Yes,Have,Moderna,Portugal
+104,Male,No,Have,AstraZeneca,Germany
+105,Female,Yes,Dont have,AstraZeneca,Germany
+106,Female,Yes,Dont have,Moderna,Poland
+107,Female,Yes,Dont have,Covaxin,Poland
+108,Female,Yes,Dont have,Moderna,Ukrainian
+109,Male,No,Dont have,Pfizer,Germany
+110,Female,No,Have,Covaxin,Portugal
+111,Female,No,Have,Pfizer,Ukrainian
+112,Female,Yes,Dont have,AstraZeneca,Portugal
+113,Female,Yes,Have,AstraZeneca,Germany
+114,Male,Yes,Dont have,Covaxin,Portugal
+115,Female,No,Dont have,AstraZeneca,Poland
+116,Female,No,Dont have,AstraZeneca,Portugal
+117,Male,No,Have,Moderna,Poland
+118,Male,Yes,Have,Pfizer,Germany
+119,Female,No,Dont have,AstraZeneca,Portugal
+120,Female,Yes,Dont have,Moderna,Germany
+121,Female,Yes,Have,Moderna,Portugal
+122,Female,No,Have,Pfizer,Ukrainian
+123,Female,Yes,Have,Pfizer,Poland
+124,Female,No,Have,AstraZeneca,Ukrainian
+125,Female,Yes,Have,Moderna,Ukrainian
+126,Female,Yes,Have,Covaxin,Germany
+127,Male,Yes,Dont have,Moderna,Poland
+128,Female,No,Have,Moderna,Portugal
+129,Male,No,Dont have,Covaxin,Portugal
+130,Male,No,Have,Moderna,Germany
+131,Male,No,Have,Covaxin,Portugal
+132,Male,No,Dont have,AstraZeneca,Poland
+133,Male,Yes,Dont have,Covaxin,Ukrainian
+134,Male,No,Have,Covaxin,Germany
+135,Female,Yes,Have,AstraZeneca,Poland
+136,Female,Yes,Dont have,Moderna,Germany
+137,Female,No,Dont have,Moderna,Germany
+138,Female,Yes,Dont have,AstraZeneca,Portugal
+139,Female,Yes,Have,Pfizer,Poland
+140,Male,Yes,Dont have,Moderna,Ukrainian
+141,Female,No,Have,Moderna,Germany
+142,Female,No,Dont have,Covaxin,Ukrainian
+143,Female,Yes,Dont have,Covaxin,Portugal
+144,Male,Yes,Have,Pfizer,Ukrainian
+145,Female,Yes,Dont have,Pfizer,Portugal
+146,Female,No,Have,Covaxin,Ukrainian
+147,Female,Yes,Have,Pfizer,Portugal
+148,Female,No,Dont have,Moderna,Ukrainian
+149,Female,No,Dont have,Pfizer,Poland
+150,Female,No,Have,Covaxin,Ukrainian
+151,Female,Yes,Have,AstraZeneca,Germany
+152,Female,Yes,Dont have,AstraZeneca,Germany
+153,Female,No,Dont have,Pfizer,Germany
+154,Female,Yes,Have,Covaxin,Germany
+155,Female,No,Have,Moderna,Portugal
+156,Female,No,Have,AstraZeneca,Poland
+157,Female,Yes,Dont have,AstraZeneca,Poland
+158,Male,Yes,Have,Pfizer,Poland
+159,Female,No,Dont have,Covaxin,Portugal
+160,Female,Yes,Dont have,Pfizer,Portugal
+161,Female,Yes,Dont have,AstraZeneca,Ukrainian
+162,Female,Yes,Have,AstraZeneca,Portugal
+163,Female,Yes,Have,Pfizer,Poland
+164,Male,Yes,Dont have,Covaxin,Portugal
+165,Female,No,Have,Pfizer,Portugal
+166,Female,Yes,Dont have,Pfizer,Portugal
+167,Female,No,Have,AstraZeneca,Portugal
+168,Female,Yes,Have,Pfizer,Ukrainian
+169,Male,No,Dont have,AstraZeneca,Ukrainian
+170,Male,No,Dont have,Pfizer,Germany
+171,Female,Yes,Dont have,Pfizer,Ukrainian
+172,Female,No,Have,Moderna,Poland
+173,Male,No,Dont have,Covaxin,Poland
+174,Female,Yes,Have,Covaxin,Ukrainian
+175,Male,Yes,Have,Covaxin,Portugal
+176,Female,Yes,Have,Pfizer,Poland
+177,Female,Yes,Dont have,Moderna,Germany
+178,Female,Yes,Dont have,Moderna,Poland
+179,Male,No,Have,Covaxin,Germany
+180,Female,Yes,Have,Pfizer,Germany
+181,Male,No,Dont have,Pfizer,Germany
+182,Female,Yes,Have,AstraZeneca,Ukrainian
+183,Female,No,Have,Moderna,Germany
+184,Male,Yes,Dont have,Moderna,Ukrainian
+185,Male,Yes,Have,Moderna,Portugal
+186,Male,No,Dont have,Pfizer,Germany
+187,Male,Yes,Have,AstraZeneca,Ukrainian
+188,Female,Yes,Have,Pfizer,Germany
+189,Male,Yes,Dont have,Moderna,Germany
+190,Female,Yes,Dont have,AstraZeneca,Ukrainian
+191,Male,Yes,Dont have,Moderna,Ukrainian
+192,Male,Yes,Dont have,Covaxin,Germany
+193,Female,No,Have,AstraZeneca,Poland
+194,Female,Yes,Have,Covaxin,Portugal
+195,Male,No,Have,AstraZeneca,Germany
+196,Female,Yes,Dont have,AstraZeneca,Portugal
+197,Female,No,Dont have,Moderna,Ukrainian
+198,Female,No,Dont have,Moderna,Portugal
+199,Female,No,Dont have,AstraZeneca,Germany
+200,Female,No,Dont have,Pfizer,Germany
+201,Male,No,Dont have,Pfizer,Poland
+202,Male,Yes,Have,Pfizer,Poland
+203,Male,No,Dont have,Moderna,Germany
+204,Female,No,Dont have,Pfizer,Germany
+205,Female,Yes,Dont have,Pfizer,Portugal
+206,Female,No,Have,Moderna,Poland
+207,Female,No,Dont have,Covaxin,Ukrainian
+208,Female,No,Dont have,AstraZeneca,Ukrainian
+209,Male,Yes,Dont have,Moderna,Portugal
+210,Female,Yes,Dont have,Pfizer,Germany
+211,Female,No,Dont have,Pfizer,Portugal
+212,Male,No,Dont have,Covaxin,Poland
+213,Male,No,Have,Covaxin,Portugal
+214,Male,No,Dont have,Covaxin,Ukrainian
+215,Male,No,Dont have,Pfizer,Germany
+216,Female,Yes,Have,Pfizer,Germany
+217,Male,Yes,Have,AstraZeneca,Ukrainian
+218,Male,No,Have,Pfizer,Portugal
+219,Male,Yes,Dont have,Moderna,Ukrainian
+220,Male,Yes,Dont have,Covaxin,Portugal
+221,Female,Yes,Dont have,AstraZeneca,Ukrainian
+222,Male,No,Dont have,Moderna,Ukrainian
+223,Male,Yes,Have,Pfizer,Germany
+224,Male,Yes,Dont have,Covaxin,Portugal
+225,Female,Yes,Have,Covaxin,Germany
+226,Male,No,Have,AstraZeneca,Ukrainian
+227,Female,No,Have,Covaxin,Germany
+228,Female,Yes,Have,Moderna,Poland
+229,Female,No,Dont have,AstraZeneca,Poland
+230,Female,Yes,Have,AstraZeneca,Ukrainian
+231,Male,No,Dont have,Moderna,Ukrainian
+232,Female,Yes,Have,Covaxin,Germany
+233,Female,Yes,Have,AstraZeneca,Ukrainian
+234,Female,Yes,Have,Pfizer,Germany
+235,Male,No,Have,Pfizer,Germany
+236,Male,Yes,Dont have,AstraZeneca,Portugal
+237,Female,Yes,Have,Covaxin,Ukrainian
+238,Male,Yes,Dont have,Covaxin,Portugal
+239,Male,Yes,Dont have,Moderna,Ukrainian
+240,Female,No,Dont have,Pfizer,Poland
+241,Male,No,Dont have,Moderna,Ukrainian
+242,Male,No,Have,AstraZeneca,Germany
+243,Male,Yes,Have,Pfizer,Germany
+244,Female,No,Have,AstraZeneca,Portugal
+245,Male,Yes,Have,Pfizer,Portugal
+246,Male,Yes,Dont have,Moderna,Poland
+247,Male,Yes,Dont have,Pfizer,Germany
+248,Male,No,Have,AstraZeneca,Poland
+249,Male,Yes,Dont have,AstraZeneca,Portugal
+250,Female,No,Have,Moderna,Portugal
+251,Male,No,Have,Pfizer,Germany
+252,Male,Yes,Dont have,Pfizer,Poland
+253,Female,No,Have,Covaxin,Germany
+254,Male,No,Dont have,Moderna,Portugal
+255,Male,No,Have,Pfizer,Germany
